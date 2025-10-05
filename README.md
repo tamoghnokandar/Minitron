@@ -1,1 +1,1 @@
-# A distributed training framework implemented from scratch
+# Distributed training framework
